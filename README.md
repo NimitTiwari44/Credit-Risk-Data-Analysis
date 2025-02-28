@@ -24,7 +24,7 @@ This project analyzes credit risk data to predict the likelihood of loan default
 
 ## How to Run the Code
 1. Clone this repository.
-2. Run the Jupyter notebook: `[jupyter notebook credit_risk_analysis.ipynb (https://drive.google.com/file/d/1p00i0RDd9kxzUsv_5M4GnkxFpn6h6Hjz/view?usp=sharing)`
+2. Run the Jupyter notebook: [jupyter notebook credit_risk_analysis.ipynb](https://drive.google.com/file/d/1p00i0RDd9kxzUsv_5M4GnkxFpn6h6Hjz/view?usp=sharing)`
 
 ## Dataset
 The dataset used in this analysis is available [[here](link-to-dataset)](https://drive.google.com/drive/folders/1Z6OZviMnW11LUQNlOhLb8Lz_i1LssTq3?usp=sharing).
